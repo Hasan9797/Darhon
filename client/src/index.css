@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: sans-serif;
+}
+
+:root{
+  --toastify-color-light: #fff;
+  --toastify-color-dark: #121212;
+  --dashboardbc: #001529;
+  --toastify-color-info: #3498db;
+  --toastify-color-success: #07bc0c;
+  --toastify-color-warning: #f1c40f;
+  --toastify-color-error: #e74c3c;
+}
